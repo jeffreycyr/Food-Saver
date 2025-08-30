@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="FoodSaver Logo Design.png" alt="Food Saver Logo" width="300"/>
+</p>
+
+
 # Food Saver 🥕🥦🥩
 
 **Food Saver** is a lightweight, open‑source web app that helps reduce food waste by tracking your fridge and pantry items. You can add groceries, set expiry dates, and get notified before food spoils.
